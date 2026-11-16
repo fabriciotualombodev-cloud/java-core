@@ -1,0 +1,10 @@
+# NetBeans / Build folders
+/build/
+/dist/
+/nbproject/private/
+/build.xml
+/manifest.mf
+.built
+nbproject/private/
+build/
+dist/
